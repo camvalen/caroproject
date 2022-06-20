@@ -1,2 +1,2 @@
 # caroproject
-the project is a learning and test docs
+the project is a learning and test project.
